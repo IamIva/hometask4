@@ -1,0 +1,33 @@
+.logo img {
+	width: 100px;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+}
+.navbar{
+	display: inline-block;
+}
+.navbar-li{
+	display: inline-block;
+	margin-right: 20px;
+}
+body {
+	padding: 30px;
+}
+.navbar-A{ 
+	color: #3D58A6;
+	font-size: 22px;
+	font-weight: bold;
+ }
+.navbar-A span {
+	color: #EE4036;
+}
+.footer span img{
+	display: inline-block;
+	height:25px;
+}
+.xazi{
+	border-left:
+}
